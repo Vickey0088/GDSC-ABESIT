@@ -54,15 +54,15 @@ function Contributors() {
 
 // Use this template below
 
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+         id: 6 ,
+         name: "vickey yadav",
+         img: "https://avatars.githubusercontent.com/u/132585803?v=4",
+         role: "contributor",
+         social1: "https://www.linkedin.com/in/vickey-yadav-1a08b324b/",
+        social2: "https://github.com/Vickey0088",
+        desc: "Hello i am vickey yadav"
+       },
   ];
 
 
